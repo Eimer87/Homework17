@@ -1,6 +1,6 @@
 # Unit 17 Nosql Homework: Workout Tracker
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Description
 
@@ -9,12 +9,6 @@ Completion of this app included the buidling out of the exercise model for the M
 same while there are a few fields that are only specific to the type of workout being logged.
 
 There wern't too many difficult parts of this project and the more labor intensive parts included setting up the server, routing for API and HTML, and the model for the database.
-
-## Demo
-
-<img src="gif">
-
-## Table of Contents
 
 
 ## Installation
