@@ -18,3 +18,6 @@ You may start the application by running the server.js node or the npm start com
 
 # Demo
 https://github.com/Eimer87/Homework17/issues/1#issue-783691828
+
+# Deployed Heroku
+https://homework17fitnesstracker.herokuapp.com
