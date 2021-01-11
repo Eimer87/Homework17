@@ -16,7 +16,6 @@ There wern't too many difficult parts of this project and the more labor intensi
 
 ## Table of Contents
 
--   [Installation](#installation)
 
 ## Installation
 
